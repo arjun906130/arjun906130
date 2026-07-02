@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Arjun C Anil
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:6A11CB&text=ARJUN%20C%20ANIL&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20Python%20Developer&descAlign=50&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;Python+Full+Stack+Developer;SQL+%7C+Excel+%7C+Power+BI;Turning+Data+into+Insights+📊" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Actionable+Insights+📊;Power+BI+Developer;Python+Full+Stack+Developer;SQL+%7C+Excel+%7C+Data+Analytics;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=arjun906130&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
@@ -10,173 +10,148 @@
 
 ---
 
-# 🚀 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dsc3N6bTR5bG9lMzE1ZzM1M2UwM2JjZ2dwb2Y3NGR5d2Y2dnRwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🎓 Bachelor of Computer Applications (BCA)
+🎓 **Bachelor of Computer Applications (BCA)**
 
-📊 Passionate about Data Analytics & Business Intelligence
+📊 Passionate about **Data Analytics** and **Business Intelligence**
 
-💡 I enjoy transforming raw datasets into interactive dashboards that help businesses make smarter decisions.
+💻 Python Full Stack Developer
 
-💻 Python Full Stack Developer with database design experience.
+📈 Building interactive dashboards with **Power BI**
 
-🌱 Currently learning
+🗄️ Strong foundation in **SQL, MySQL & Database Design**
 
-- Advanced Power BI
-- Data Engineering
-- AI Tools
-- Cloud Technologies
+📚 Continuously learning modern analytics tools and technologies
 
 📍 Kerala, India
 
 ---
 
-# 💻 Tech Arsenal
+# 🚀 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-### Data Analytics
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
----
-
-# 📊 Data Analytics Projects
-
-### 🛒 Blinkit Sales Dashboard
-
-Interactive Power BI dashboard analyzing product sales, outlet performance and customer insights.
-
----
-
-### 🎵 Spotify Dashboard
-
-Music analytics dashboard with listening trends, artist performance and user insights.
-
----
-
-### 💊 Pharmacist Dashboard
-
-Inventory tracking, medicine stock analysis and sales reporting.
-
----
-
-### 🏪 Supermarket Sales Dashboard
-
-Comprehensive business intelligence dashboard with KPIs and sales trends.
-
----
-
-# 🌐 Full Stack Projects
-
-🚗 Car Wash Management System
-
-🏋️ Gym Management System
-
-🎓 College Admission Management System
-
-✔ Database Design
-
-✔ SQL
-
-✔ Power BI Reporting
-
-✔ Team Collaboration
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arjun906130&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=arjun906130&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
 </p>
 
-<p align="center">
+### 🌐 Frameworks & Tools
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=arjun906130&theme=tokyo-night&hide_border=true"/>
+<p>
+<img src="https://skillicons.dev/icons?i=django,bootstrap,mysql,mongodb,git,github,vscode"/>
+</p>
+
+### 📊 Data Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arjun906130&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjun906130&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun906130&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="80%" src="https://streak-stats.demolab.com?user=arjun906130&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=arjun906130&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-# ⚡ Fun Facts
+# 💼 What I Do
 
-📊 Data is my favorite language.
+```text
+📊 Analyze Business Data
 
-☕ Coffee + SQL = Productivity.
+📈 Build Interactive Dashboards
 
-🎯 I believe every dataset tells a story.
+🗃️ Design Relational Databases
 
-🚀 Always exploring new technologies.
+🐍 Develop Python Applications
+
+📉 Create Business Reports
+
+⚡ Solve Real-World Problems Using Data
+```
 
 ---
 
-# 🌍 Let's Connect
+# 📚 Currently Learning
 
-<p align="center">
+```text
+☁️ Cloud Technologies
 
-<a href="https://linkedin.com/in/arjun-c-anil-7b7239324">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+🤖 AI for Data Analytics
+
+📊 Advanced Power BI
+
+⚙️ Data Engineering
+
+📈 Business Intelligence
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/arjun-c-anil-7b7239324">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:arjuncanil2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/arjun906130">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Turning Data into Decisions."
+## 💙 *"Transforming Data into Meaningful Insights."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,100:6A11CB"/>
 
 </div>
